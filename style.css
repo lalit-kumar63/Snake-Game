@@ -18,7 +18,7 @@ body{
     box-shadow: 0 0 10px 1px lightgrey;
 }
 .score_container{
-    height: 4rem;
+    height: 40rem;
     width: 36rem;
     background-color: gray;
     display: flex;
